@@ -1,4 +1,4 @@
-# //swalter|labs
+# //swalter | labs
 
 Organization profile for **[evilbaschdi](https://github.com/evilbaschdi)** projects and repositories.
 
