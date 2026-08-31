@@ -1,16 +1,10 @@
 # //swalter|labs
 
-An organization entity and ecosystem surrounding the **[evilbaschdi](https://github.com/evilbaschdi/)** namespace.
+Organization profile for **[evilbaschdi](https://github.com/evilbaschdi)** projects and repositories.
 
 ---
 
-## 📦 Ecosystem & Repositories
+## 🔗 Quick Links
 
-* **Main Profile & Projects:** [github.com/evilbaschdi](https://github.com/evilbaschdi)
-* **Organization Repositories:** [Browse Repos](https://github.com/orgs/swalterlabs/repositories)
-
----
-
-<p align="center">
-  <sub>swalterlabs</sub>
-</p>
+* **Personal Profile:** [@evilbaschdi](https://github.com/evilbaschdi)
+* **Repositories:** [Browse All](https://github.com/orgs/swalterlabs/repositories)
