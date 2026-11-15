@@ -1,18 +1,26 @@
 # //swalter | labs
 
-Open-source .NET libraries and tools by **[Sebastian Walter](https://github.com/evilbaschdi)**. This organization is the new home for selected projects previously published under the `evilbaschdi` profile.
+Open-source .NET libraries and tools by **[Sebastian Walter](https://github.com/evilbaschdi)**. Over time, all important repositories from the `evilbaschdi` profile will move here; this organization is their long-term home.
 
 ---
 
 ## Architecture & Philosophy
 
-We build reusable foundations for .NET applications, with a focus on Windows tools and applications. Our work is guided by **SOLID principles**, **MVVM**, and **Clean Code** to keep projects maintainable, testable, and easy to extend.
+I build reusable foundations for .NET applications, with a focus on Windows tools and applications. Most repositories build on the **SWalter.* core assemblies**, starting with [SWalter.Core](https://github.com/swalterlabs/SWalter.Core). My work is guided by **SOLID principles**, **MVVM**, and **Clean Code** to keep projects maintainable, testable, and easy to extend.
 
 ![SOLID](https://img.shields.io/badge/Architecture-SOLID%20Principles-red?style=for-the-badge&logo=target)
 ![MVVM](https://img.shields.io/badge/Pattern-MVVM-8A2BE2?style=for-the-badge&logo=microsoft)
 ![Clean Code](https://img.shields.io/badge/Code-Clean-green?style=for-the-badge&logo=leaf)
 
-Libraries are developed in the open and published under the **MIT License**.
+All repositories are developed in the open and published under the **MIT License**.
+
+### SWalter.* Repositories
+
+- [**SWalter.Core**](https://github.com/swalterlabs/SWalter.Core) — Core assembly and reusable base utilities for .NET applications.
+- [**SWalter.Extensions**](https://github.com/swalterlabs/SWalter.Extensions) — Infrastructure extensions for dependency injection, logging, and file-based or machine/user settings.
+- [**SWalter.Core.Avalonia**](https://github.com/swalterlabs/SWalter.Core.Avalonia) — Avalonia UI extensions, controls, and headless testing utilities.
+- [**SWalter.About**](https://github.com/swalterlabs/SWalter.About) — About dialogs and application metadata components for .NET, Avalonia, and terminal applications.
+- [**SWalter.Testing**](https://github.com/swalterlabs/SWalter.Testing) — .NET testing helpers, including AutoFixture extensions and custom assertions.
 
 ## Tech Stack
 
@@ -26,6 +34,8 @@ Libraries are developed in the open and published under the **MIT License**.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/Avalonia_UI-B92612?style=for-the-badge&logo=avalonia&logoColor=white)
+
+The projects target the **latest .NET releases**. Release and preview packages are available from the [MyGet feed](https://www.myget.org/F/swalterlabs/api/v3/index.json); installation instructions are provided in each repository.
 
 ### Concepts & Tooling
 
@@ -43,4 +53,6 @@ Libraries are developed in the open and published under the **MIT License**.
 ## 🔗 Quick Links
 
 * **Personal Profile:** [@evilbaschdi](https://github.com/evilbaschdi)
+* **Personal Website:** [//sebastian | evilbaschdi](https://evilbaschdi.github.io/)
 * **Repositories:** [Browse All](https://github.com/orgs/swalterlabs/repositories)
+* **Website:** [//swalter | labs](https://swalterlabs.github.io/)
